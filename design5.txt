@@ -1,0 +1,65 @@
+Huy Yang (Huy Yanhs), Professor Karla Fant, Computer Science 163, 12/2/2014
+
+Design write up number 5 / Program #5
+
+1) The data structure that was chosen for this assignment I felt was a bit 
+odd because I felt if there wasn't a lab for this assignment we all would
+have been stumped. I have talked to other students that have taken the past
+163 classes and the graph lab never existed which was harder for students 
+to finish the assignment on time. But other than that I really loved the
+data structure that was used in this homework. The fact that you can access
+different data through other similar data is really extraordinary and it 
+makes me think about what other different types of data structure there are
+in this world that are just as better as this one. 
+
+2) I feel this is the best data structure out of all that will work ONLY with
+this type of assignment. The assignment asks us to have a topic key and its
+topic sentence and when you type in the topic key we will print out the topic
+sentence. We also have to match the other topic keys with each other and they
+connect like a graph. We are able to print out whatever the topic key is along
+with its similiar set of topic keys and sentences. So trying to find a better
+data structure that would do that? I have thought about it and all I could 
+think of are just the data structures that will just set up the data but not
+really group the similar ones. Maybe sets of binary search trees would work?
+Or sets of hash tables? But that would require more work and the implementation
+would be a little hard. So in this certain assignment a graph works out
+perfectly
+
+3) There are a couple difficulties with this assignment that I have encountered
+and that was really inefficient. But first, the fact that we have been working
+with external files have really came in handy with external files and I have 
+now noticed how powerful they are when you have data. Program 3 and program 4
+I thought working with external files were extraordinarily easy just trying to
+read in from the file and storing the data into a class or a struct, but trying
+to store data straight into the vertex was a bit difficult to figure out and many
+of my ideas turned out to be very inefficient and I would get constant segfaults 
+because I wouldn't have made my graph correctly even though everything was 
+allocated through my constructor. I had to get a little help from a tutor named
+Andrey and he helped me build the structure and while we read in, we actually
+add into the adjacency list and into the edges as we read in. So the functions
+that were performed in lab really was just uncessary. So I thought the graphs that
+we have done in the lab was just less efficient than what I have implemented. 
+
+4) The different thing that I have done in my code than others was that in order
+to connect with the other items in my graph, I determined that through integers
+in my external file. I thought this was extremely efficient because the two
+functions that were used in lab were not needed and really I had to read in 
+from the file and just read in those integers, store those into the adjacency
+list array and then I can connect the nodes depending on what pointers I store
+in. Another thing that was efficient was the way I read into my file. I felt the
+lab gave a really good representation on how the graph should've been like, but
+I felt that was the most difficult approach to it and just thought of something 
+easier. So I just compacted my insert adjacency list and insert nodes into one
+whole function in which was done in my read in and it was successfully done. It 
+was still a graph at the end. 
+
+5) The thing that I would've done differently would have been probably nothing.
+Like I said earlier, in this particular assignment, comparing the keyword and
+sentence to another and then display whatever is connected is tricky to do on
+other data structures and I don't think doing it in a linear linked list, BST,
+or any other data structures besides graphs would be complicated. Maybe unless
+you have triple of quadruple instances of a class or triple or quadruple classes
+but other than that, graphs would just single handedly compare, group and connect
+whatever keyword and sentence you need to connect. 
+
+

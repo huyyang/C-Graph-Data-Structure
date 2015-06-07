@@ -1,0 +1,15 @@
+iphone, There are iphone 6's out now. Maybe we can get one during black friday?|1,2,5
+computers, I really want to get a new mac to code for my next term computer science class|2,7,8,9
+black friday, I'm pretty much skipping thanksgiving to get a new computer, cellphone, headphones and hairspray|0,1,4,5,11
+movies, Who likes breaking bad? Or Dexter? Pretty much buying the whole season of the two on black friday. #skippingclass|1,2,8
+games, There is a sale online. 75% off of the game called TitanFall get it!|1,2,5
+head phones, My friend really needs headphones. Keeps asking for mine. Just gonna buy him a pair on black friday|0,2
+actors, I wonder if any actors go out on black friday? Or do they have so much money they don't even care to save..|3
+computer science, I try hard not to skip class but black friday? Yeah I gotta skip it sorry Karla|1,2,8,9
+classes, The classes that I have today literally all have finals. Should i study on black friday?|1,2,3,4,7,9
+for loops, Who knows how to do these things? Anyone? Going once. Going twice... okay|1,7,8
+hairspray, The movie was good but I would rather buy the real hairspray. I always get bad hairdays|3,6
+how to get away with murder, So I have two choices. Either go out on black friday or stay indoors watching this.|1,2,6
+proficiency demo, When I get home I'm probably going to get ready for the demo. Its only on friday. Is it...?|1,7,8
+water bottles, I really need to get a new waterbottle. Mine got stolen. Black friday it up!|2
+while loops, These are my favorite to do when it comes to computer science.|1,7,8,9,13
